@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/shrikantkamble/PWD/_apis/build/status/shrik411.pipelines-java?branchName=master)](https://dev.azure.com/shrikantkamble/PWD/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
